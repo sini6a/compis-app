@@ -1,0 +1,38 @@
+.site-branding {
+    width: 100%;
+    object-fit: cover;
+
+}
+
+@media screen and (min-width: 20em) {
+	
+	.site-branding {
+		height: 7em;
+	}
+}
+
+@media screen and (min-width: 30em) {
+	.site-branding {
+		height: 17.5em;
+	}
+}
+
+@media screen and (min-width: 48em) {
+	.site-branding {
+		height: 15.5em;
+	}
+
+}
+
+@media screen and ( min-width: 67em ) {
+	.site-branding {
+		height: 15.5em;
+	}
+
+}
+
+@media screen and ( min-width: 79em ) {
+	.site-branding {
+		height: 15.5em;
+	}
+}
