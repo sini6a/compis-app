@@ -86,6 +86,10 @@ Navigate your browser to following address.
 http://localhost:8000
 ```
 
+## Screenshots
+
+![Screenshot #2](/screenshots/2.png?raw=true "Screenshot #2")
+![Screenshot #3](/screenshots/3.png?raw=true "Screenshot #3")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -94,8 +98,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](LICENSE.md)
-
-## Screenshots
-
-![Screenshot #2](/screenshots/2.png?raw=true "Screenshot #2")
-![Screenshot #3](/screenshots/3.png?raw=true "Screenshot #3")
